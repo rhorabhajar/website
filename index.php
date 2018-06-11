@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="layouts/css/bootstrap.min.css">
     <link rel="stylesheet" href="layouts/css/style.css"/>
 
-    <title> My_Website  </title>
+    <title> My_Website ---  </title>
 </head>
 <body>
 <div class="container">
