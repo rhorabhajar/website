@@ -6,10 +6,12 @@
     <link rel="stylesheet" href="layouts/css/style.css"/>
 
     <title> My_Website ---  </title>
+
+
 </head>
 <body>
 <div class="container">
-    <h1 class="text-center my-4">Welcome To My Domain</h1>
+    <h1 class="text-center my-4">Welcome To My Domain - </h1>
     <div class="body mt-10">
         <div class="row">
             <div class="card bg-dark" style="width: 18rem;">
